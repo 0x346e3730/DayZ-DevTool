@@ -1,0 +1,12 @@
+{
+  "name": "DayZ-DevTool",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Antonin \"GrosTon1\" CLAUZIER",
+  "license": "CC-BY-NC-SA-4.0",
+  "dependencies": {
+    "chokidar": "^2.0.4",
+    "fs-extra": "^7.0.1",
+    "taskkill": "^2.0.0"
+  }
+}
