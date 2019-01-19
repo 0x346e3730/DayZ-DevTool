@@ -1,0 +1,9 @@
+{
+    "modName": "@BodiesRemoval",
+    "clientLocation": "C:\\SteamLibrary\\steamapps\\common\\DayZ\\",
+    "serverLocation": "C:\\SteamLibrary\\steamapps\\common\\DayZServer\\",
+    "keysLocation": "C:\\SteamLibrary\\steamapps\\common\\DayZ Tools\\Bin\\DsUtils\\",
+    "keyName": "GrosTon1",
+    "makePbo": "C:\\Program Files (x86)\\Mikero\\DePboTools\\bin\\MakePbo.exe",
+    "signFile": "C:\\SteamLibrary\\steamapps\\common\\DayZ Tools\\Bin\\DsUtils\\DSSignFile.exe"
+}
